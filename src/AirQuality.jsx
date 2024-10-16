@@ -15,7 +15,7 @@ function AirQuality({ city, airQualityData }) {
 
   return (
     <motion.div
-      className="bg-green-600 h-52 w-52 rounded-xl flex items-center justify-center shadow-md"
+      className="bg-green-600 h-52 w-52 p-4 rounded-xl flex items-center justify-center shadow-md"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.5 }}
