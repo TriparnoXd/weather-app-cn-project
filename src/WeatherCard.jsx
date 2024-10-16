@@ -48,7 +48,7 @@ function WeatherCard({ onSubmit, setInputValue }) {
 
 WeatherCard.propTypes = {
   onSubmit: PropTypes.func.isRequired,
-  setInputValue: PropTypes.func.isRequired, // Update prop types
+  setInputValue: PropTypes.func.isRequired, 
 };
 
 export default WeatherCard;
