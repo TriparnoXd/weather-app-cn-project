@@ -5,7 +5,7 @@ import WeatherCard from "./WeatherCard";
 import Temperature from "./Temperature";
 import Humidity from "./Humidity";
 import AirQuality from "./AirQuality";
-import SunriseSunset from "./SunriseSunset"; // Import the new component
+import SunriseSunset from "./SunriseSunset";
 
 function App() {
   const [submitted, setSubmitted] = useState(false);
@@ -73,7 +73,7 @@ function App() {
               <Temperature city={city} weatherData={weatherData} />
               <Humidity city={city} weatherData={weatherData} />
               <AirQuality city={city} airQualityData={airQualityData} />
-              <SunriseSunset city={city} weatherData={weatherData} /> {/* Updated component */}
+              <SunriseSunset city={city} weatherData={weatherData} /> 
             </motion.div>
           )}
         </AnimatePresence>
