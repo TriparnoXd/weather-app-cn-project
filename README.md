@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Weather App developed by **Triparno Das** (Student ID: ra2411003010885) as part of my application to the **Coding Ninjas Club**. The app provides real-time weather information, including temperature, humidity, air quality, and sunrise/sunset times for different cities.
+This project is a Weather App developed by **Triparno Das** (Student ID: RA2411003010885) as part of my application to the **Coding Ninjas Club**. The app provides real-time weather information, including temperature, humidity, air quality, and sunrise/sunset times for different cities.
 
 ## Tech Stack
 
@@ -20,4 +20,4 @@ This project is a Weather App developed by **Triparno Das** (Student ID: ra24110
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TriparnoXd/weather-app-cn-project.git
